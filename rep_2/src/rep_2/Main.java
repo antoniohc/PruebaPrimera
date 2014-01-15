@@ -5,6 +5,7 @@ public class Main {
 	public static void main(String[] args) {
 
 		System.out.println("esto es una línea de código");
+		System.out.println("segunda línea de código de la versión 1.0");
 	}
 
 }
